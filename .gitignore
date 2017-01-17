@@ -1,3 +1,6 @@
+.vagrant
+.vagrant/**
+.vagrant/**/*
 *.log
 *.pot
 *.pyc
